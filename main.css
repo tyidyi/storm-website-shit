@@ -1,0 +1,22 @@
+.main-heading{
+	color: pink;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+.main.background.picture{
+	width: 400%;
+}
+body {
+	background-image: url("http://images5.fanpop.com/image/photos/31600000/Storm-Ororo-Munroe-wallpapers-x-men-31690257-1920-1080.jpg") ;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom:0;
+	margin: auto;
+	min-width: 50%;
+	min-height:50%;
+}
+
